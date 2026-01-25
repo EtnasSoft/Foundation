@@ -1,0 +1,11 @@
+{
+  "allowUnsafeCode": false,
+  "autoReferenced": true,
+  "excludePlatforms": [],
+  "includePlatforms": [],
+  "name": "EtnasSoft.Foundation.Validation",
+  "references": [
+    "EtnasSoft.Foundation"
+  ],
+  "rootNamespace": "EtnasSoft.Foundation.Validation"
+}

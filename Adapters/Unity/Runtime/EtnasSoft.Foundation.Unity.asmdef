@@ -1,0 +1,13 @@
+{
+  "allowUnsafeCode": false,
+  "autoReferenced": true,
+  "excludePlatforms": [],
+  "includePlatforms": [],
+  "overrideReferences": false,
+  "name": "EtnasSoft.Foundation.Unity",
+  "references": [
+    "EtnasSoft.Foundation",
+    "EtnasSoft.Foundation.Validation"
+  ],
+  "rootNamespace": "EtnasSoft.Foundation.Unity"
+}

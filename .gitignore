@@ -1,0 +1,13 @@
+# Unity generates these - don't version them
+*.meta
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.idea/
+.vscode/
+*.userprefs
+*.suo
+*.user

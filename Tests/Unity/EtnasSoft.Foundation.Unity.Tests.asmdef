@@ -1,0 +1,14 @@
+{
+  "name": "EtnasSoft.Foundation.Unity.Tests",
+  "rootNamespace": "EtnasSoft.Foundation.Unity.Tests",
+  "references": [
+    "EtnasSoft.Foundation",
+    "EtnasSoft.Foundation.Unity",
+    "EtnasSoft.Foundation.Validation",
+    "UnityEngine.TestRunner"
+  ],
+  "includePlatforms": [
+    "Editor"
+  ],
+  "autoReferenced": false
+}
