@@ -19,10 +19,10 @@
         "name": "EtnasSoft"
     },
     "license": "MIT",
-    "documentationUrl": "",
-    "changelogUrl": "",
-    "licensesUrl": "",
-    "repository": "",
+    "documentationUrl": "https://github.com/EtnasSoft/Foundation/blob/main/README.md",
+    "changelogUrl": "https://github.com/EtnasSoft/Foundation/blob/main/CHANGELOG.md",
+    "licensesUrl": "https://github.com/EtnasSoft/Foundation/blob/main/LICENSE.md",
+    "repository": "https://github.com/EtnasSoft/Foundation",
     "samples": [
         {
             "displayName": "Basic Usage Examples",
