@@ -37,16 +37,16 @@ This enables nullable annotations throughout the module. Without this configurat
 
 ```
 ┌─────────────────────────────────────────────────────────────┐
-│  Unity Layer (MonoBehaviours, Components)                   │
-│  Uses: Vector3, Color, Quaternion                           │
+│  Unity Layer (MonoBehaviours, Components)            │
+│  Uses: Vector3, Color, Quaternion                    │
 └────────────────────┬────────────────────────────────────────┘
                      │
                      │ Adapters (Boundary)
                      ▼
 ┌─────────────────────────────────────────────────────────────┐
-│  Domain Layer (Game Logic, Services, Systems)               │
-│  Uses: Float3, ColorRgba, Angle                             │
-│  Zero Unity Dependencies                                    │
+│  Domain Layer (Game Logic, Services, Systems)        │
+│  Uses: Float3, ColorRgba, Angle                      │
+│  Zero Unity Dependencies                             │
 └─────────────────────────────────────────────────────────────┘
 ```
 
