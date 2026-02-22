@@ -16,6 +16,14 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Fixed
 - (pending)
 
+## [0.2.1] - 2026-02-22
+
+### Added
+- `.editorconfig`
+
+### Changed
+- Remove AGENTS.md.meta from version control
+
 ## [0.2.0] - 2026-02-22
 
 ### Added

@@ -1,5 +1,6 @@
 # Agent context files (local only, not versioned)
 AGENTS.md
+AGENTS.md.meta
 
 # OS files
 .DS_Store
