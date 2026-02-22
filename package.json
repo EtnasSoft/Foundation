@@ -1,38 +1,38 @@
 {
-    "name": "com.etnassoft.boilerplate.foundation",
-    "version": "0.2.1",
-    "displayName": "Unity Foundation Library",
-    "description": "Domain-driven foundation library with Unity-decoupled primitive types, validation, and safe adapters for clean architecture projects.",
-    "unity": "2021.2",
-    "keywords": [
-        "foundation",
-        "domain-driven",
-        "clean-architecture",
-        "validation",
-        "adapters",
-        "primitives",
-        "unity",
-        "upm",
-        "ddd"
-    ],
-    "author": {
-        "name": "EtnasSoft"
+  "name": "com.etnassoft.boilerplate.foundation",
+  "version": "0.2.3",
+  "displayName": "Unity Foundation Library",
+  "description": "Domain-driven foundation library with Unity-decoupled primitive types, validation, and safe adapters for clean architecture projects.",
+  "unity": "2021.2",
+  "keywords": [
+    "foundation",
+    "domain-driven",
+    "clean-architecture",
+    "validation",
+    "adapters",
+    "primitives",
+    "unity",
+    "upm",
+    "ddd"
+  ],
+  "author": {
+    "name": "EtnasSoft"
+  },
+  "license": "MIT",
+  "documentationUrl": "https://github.com/EtnasSoft/Foundation/blob/main/README.md",
+  "changelogUrl": "https://github.com/EtnasSoft/Foundation/blob/main/CHANGELOG.md",
+  "licensesUrl": "https://github.com/EtnasSoft/Foundation/blob/main/LICENSE.md",
+  "repository": "https://github.com/EtnasSoft/Foundation",
+  "samples": [
+    {
+      "displayName": "Basic Usage Examples",
+      "description": "Simple examples showing domain types and adapters",
+      "path": "Samples~/BasicUsage"
     },
-    "license": "MIT",
-    "documentationUrl": "https://github.com/EtnasSoft/Foundation/blob/main/README.md",
-    "changelogUrl": "https://github.com/EtnasSoft/Foundation/blob/main/CHANGELOG.md",
-    "licensesUrl": "https://github.com/EtnasSoft/Foundation/blob/main/LICENSE.md",
-    "repository": "https://github.com/EtnasSoft/Foundation",
-    "samples": [
-        {
-            "displayName": "Basic Usage Examples",
-            "description": "Simple examples showing domain types and adapters",
-            "path": "Samples~/BasicUsage"
-        },
-        {
-            "displayName": "Network Synchronization",
-            "description": "Example of validating untrusted network data",
-            "path": "Samples~/NetworkSync"
-        }
-    ]
+    {
+      "displayName": "Network Synchronization",
+      "description": "Example of validating untrusted network data",
+      "path": "Samples~/NetworkSync"
+    }
+  ]
 }
