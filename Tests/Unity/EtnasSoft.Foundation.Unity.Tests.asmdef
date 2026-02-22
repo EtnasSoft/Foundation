@@ -3,6 +3,7 @@
   "rootNamespace": "EtnasSoft.Foundation.Unity.Tests",
   "references": [
     "EtnasSoft.Foundation",
+    "EtnasSoft.Foundation.Numerics",
     "EtnasSoft.Foundation.Unity",
     "EtnasSoft.Foundation.Validation",
     "UnityEngine.TestRunner"

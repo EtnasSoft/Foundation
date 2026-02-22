@@ -1,0 +1,11 @@
+{
+  "allowUnsafeCode": false,
+  "autoReferenced": true,
+  "excludePlatforms": [],
+  "includePlatforms": [],
+  "name": "EtnasSoft.Foundation.Numerics",
+  "references": [
+    "EtnasSoft.Foundation"
+  ],
+  "rootNamespace": "EtnasSoft.Foundation.Numerics"
+}
