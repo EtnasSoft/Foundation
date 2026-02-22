@@ -1,3 +1,6 @@
+# Agent context files (local only, not versioned)
+AGENTS.md
+
 # OS files
 .DS_Store
 Thumbs.db
