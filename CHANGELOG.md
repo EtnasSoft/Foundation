@@ -8,17 +8,23 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [Unreleased]
 
 ### Added
-- `Float2` domain type: immutable 2D vector (`readonly struct`) as a Unity-decoupled replacement for `Vector2`
-- `Float2Validation`: finite/NaN/Infinity checks for `Float2`
-- `Float2Sanitizer`: sanitization with `ValidationPolicy` support for `Float2`
-- `Float2UnityAdapter`: three-variant extension methods for `Float2 ↔ Vector2` conversion (simple, safe, customizable)
-- Tests: `Float2SanitizerTests` and `Float2UnityAdapterTests`
+- (pending)
 
 ### Changed
 - (pending)
 
 ### Fixed
 - (pending)
+
+## [0.2.0] - 2026-02-22
+
+### Added
+- `Float2` domain type: immutable 2D vector (`readonly struct`) as a Unity-decoupled replacement for `Vector2`
+- `Float2Validation`: finite/NaN/Infinity checks for `Float2`
+- `Float2Sanitizer`: sanitization with `ValidationPolicy` support for `Float2`
+- `Float2UnityAdapter`: three-variant extension methods for `Float2 ↔ Vector2` conversion (simple, safe, customizable)
+- Tests: `Float2SanitizerTests` and `Float2UnityAdapterTests`
+
 
 ## [0.1.0] - 2026-01-25
 
