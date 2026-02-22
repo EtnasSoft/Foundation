@@ -7,17 +7,20 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+### Changed
+- (pending)
+
+### Fixed
+- (pending)
+
+## [0.3.0] - 2026-02-22
+
 ### Added
 - `EtnasSoft.Foundation.Numerics` assembly: new module for pure mathematical operations on domain types, with no Unity dependencies
 - `Float2Extensions.MoveTowards`: advances a `Float2` towards a target by at most `maxDistanceDelta` units per call, without overshooting (mirrors `Vector2.MoveTowards` semantics)
 - `Float3Extensions.MoveTowards`: equivalent operation for `Float3` (mirrors `Vector3.MoveTowards` semantics)
 - Tests: `Float2MoveTowardsTests` and `Float3MoveTowardsTests` covering zero delta, negative delta, same position, large delta, exact delta, partial advance, large coordinates, and nearly-equal positions
 
-### Changed
-- (pending)
-
-### Fixed
-- (pending)
 
 ## [0.2.3] - 2026-02-22
 ## [0.2.2] - 2026-02-22

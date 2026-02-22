@@ -1,6 +1,6 @@
 {
   "name": "com.etnassoft.boilerplate.foundation",
-  "version": "0.2.3",
+  "version": "0.3.0",
   "displayName": "Unity Foundation Library",
   "description": "Domain-driven foundation library with Unity-decoupled primitive types, validation, and safe adapters for clean architecture projects.",
   "unity": "2021.2",
