@@ -9,7 +9,7 @@
 ## Key Concepts
 
 ### Domain Types
-    Use `Float3`, `Angle`, and `ColorRgba` instead of Unity types in your domain logic.
+    Use `Float2`, `Float3`, `Angle`, and `ColorRgba` instead of Unity types in your domain logic.
 
 ### Adapters
     Convert at boundaries using extension methods:
